@@ -97,7 +97,6 @@ MonoBehaviour:
   Suit: -1
   Rank: -1
   OwnerId: 
-  faceUp: 0
 --- !u!61 &7397455079663487781
 BoxCollider2D:
   m_ObjectHideFlags: 0
